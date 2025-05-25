@@ -1,0 +1,11 @@
+ipykernel
+pydantic
+
+python-dotenv # Responsible for creating the virtual environment
+langchain # For the langchain library
+langchain-openai # For the OpenAI API
+langchain-groq # For the Groq API
+langchain-core # For the core langchain library
+langchain-community # For the community langchain library
+
+defusedxml
